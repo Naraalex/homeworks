@@ -11,5 +11,6 @@ public class HomeworkTwo {
 		}else {
 			System.out.println("Sxal haxordagrutyun");
 		}
+		sc.close();
 	}
 }
